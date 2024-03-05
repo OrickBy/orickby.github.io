@@ -2036,11 +2036,27 @@
     margin-right: 0;
   }
 }.u-section-10 .u-sheet-1 {
-  min-height: 47px;
+  min-height: 107px;
 }
 
 .u-section-10 .u-btn-1 {
   border-style: solid;
-  margin-bottom: 0;
+  margin: 13px 16px 0 auto;
   padding: 0;
+}
+
+.u-section-10 .u-btn-2 {
+  border-style: solid;
+  margin: 16px 44px 25px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-10 .u-btn-2 {
+    margin-right: 0;
+  }
 }
