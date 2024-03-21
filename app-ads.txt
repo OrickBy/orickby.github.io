@@ -7,6 +7,9 @@ bidmachine.io, 234055, DIRECT
 #AdMob
 google.com, pub-2849540045659458, DIRECT, f08c47fec0942fa0
 
+#Yandex
+yandex.com, 95740617, DIRECT
+
 #Resellers
 152media.info,152M5,RESELLER
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
