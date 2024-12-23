@@ -6,6 +6,7 @@ bidmachine.io, 234055, DIRECT
 
 #AdMob
 google.com, pub-2849540045659458, DIRECT, f08c47fec0942fa0
+google.com, pub-3290144661164853, DIRECT, f08c47fec0942fa0
 
 #Yandex
 yandex.com, 95740617, DIRECT
